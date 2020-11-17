@@ -1,0 +1,11 @@
+INFO  | 2020-11-13 09:36:53 | [main] javapractice.App (App.java:16) - HelloJavawill be printing on info
+WARN  | 2020-11-13 09:36:53 | [main] javapractice.App (App.java:17) - HelloJavawill be printing on warn
+ERROR | 2020-11-13 09:36:53 | [main] javapractice.App (App.java:18) - HelloJavawill be printing on error
+FATAL | 2020-11-13 09:36:53 | [main] javapractice.App (App.java:19) - HelloJavawill be printing on fatal
+INFO  | 2020-11-13 09:36:53 | [main] javapractice.App (App.java:20) - Appending string: HelloJava
+DEBUG | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:15) - HelloJavawill be printing on debug
+INFO  | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:16) - HelloJavawill be printing on info
+WARN  | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:17) - HelloJavawill be printing on warn
+ERROR | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:18) - HelloJavawill be printing on error
+FATAL | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:19) - HelloJavawill be printing on fatal
+INFO  | 2020-11-13 10:19:42 | [main] javapractice.App (App.java:20) - Appending string: HelloJava
